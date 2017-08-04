@@ -1,1 +1,3 @@
-#scripts for kaggle project https://www.kaggle.com/c/sberbank-russian-housing-market
+# scripts for kaggle project https://www.kaggle.com/c/sberbank-russian-housing-market
+# Sberbank data cleaning and modeling.ipynb - Python Jupyter notebook with data cleaning and models
+# KaggleSberbankReport.pdf - Accompanying text for the Sberbank data cleaning and modeling.ipynb
